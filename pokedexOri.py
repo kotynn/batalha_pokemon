@@ -1,3 +1,5 @@
+#Rafael Sugai Koti :)
+
 import requests
 
 def pegar_pokemon(nome):
